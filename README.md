@@ -3,6 +3,10 @@
 ## Overview
 This project focuses on the extraction of skin colors and the detection of dominant colors in images using KMeans clustering and OpenCV. The goal is to analyze skin tone variations effectively, providing insights into color diversity for various applications, including cosmetic and dermatological industries.
 
+## Project Workflow
+
+<img src="/workflow.jpeg">
+
 ## Features
 - **Skin Color Extraction**: Utilizes KMeans clustering to identify and extract skin tones from images.
 - **Dominant Color Detection**: Analyzes images to determine the most prevalent skin color, aiding in understanding skin tone variations.
