@@ -25,3 +25,4 @@ To run this project, you need to install the required libraries. You can do this
 
 ```bash
 pip install -r requirements.txt
+```
